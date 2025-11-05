@@ -1,6 +1,6 @@
 # TechBash 2025
 TechBash 2025 session decks, sample code, links, photos and other stuff. Be sure to use #TechBash when posting in social media.
 
-Speakers: please feel free to send pull requests with any of your content that you want to share with the TechBash attendees. This way we have a single place for attendees to go and get content.
+Speakers: please feel free to send pull requests with any of your content that you want to share with the TechBash attendees. This way we have a single place for attendees to go and get content. Presenters will drop talks, slides, and demos from TechBash 2025, or links to their GitHub repo in this folder. Place your content in a folder with your session title.
 
 Organization: fork this repository and put your session materials, links or anything else in a subdirectory named with the same name as your session. Then send a pull request and we will merge it in.
